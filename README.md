@@ -9,7 +9,7 @@ I would take in markdown notes as well as uploading my solution to the homework 
 | Item  |                   Download Link                    |
 | :---: | :------------------------------------------------: |
 | Notes | [unfinished](https://github.com/Hantao-Ye/CS97-SI) |
-| Sols  | [unfinished](https://github.com/Hantao-Ye/CS97-SI) |
+| Sols  | [click me](https://github.com/Hantao-Ye/CS97-SI/tree/main/Assignment) |
 
 ## Contribute Struggle in BJTU
 
