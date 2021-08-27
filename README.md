@@ -2,7 +2,7 @@
 
 This is the personal recording of the Stanford course CS 97SI: Introduction to Programming Contests, where the relevant information including **slides** and **homework** could be found on this [link](https://web.stanford.edu/class/cs97si/).
 
-I would take in markdown notes as well as uploading my solution to the homework in this repository.
+I would take in markdown notes as well as uploading my solution to the assignment folder in this repository.
 
 ##  How to Use
 
