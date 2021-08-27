@@ -1,14 +1,14 @@
 # CS97 SI
 
-This is the personal recording of the Stanford course CS 97SI: Introduction to Programming Contests, where the relevant information including **slides** and **homework** could be found on this [link](https://web.stanford.edu/class/cs97si/).
+There are the personal learning materials of the Stanford course CS 97SI: Introduction to Programming Contests, where the relevant information including **slides** and **homework** could be found on this [link](https://web.stanford.edu/class/cs97si/).
 
 I would take in markdown notes as well as uploading my solution to the assignment folder in this repository.
 
 ##  How to Use
 
-| Item  |                   Download Link                    |
-| :---: | :------------------------------------------------: |
-| Notes | [unfinished](https://github.com/Hantao-Ye/CS97-SI) |
+| Item  |                                 Link                                  |
+| :---: | :-------------------------------------------------------------------: |
+| Notes |   [click me](https://github.com/Hantao-Ye/CS97-SI/tree/main/Notes)    |
 | Sols  | [click me](https://github.com/Hantao-Ye/CS97-SI/tree/main/Assignment) |
 
 ## Contribute Struggle in BJTU
@@ -26,3 +26,9 @@ Since I've already finished most courses in BJTU ~~and the habit of keeping note
 - Y3S1: :heavy_check_mark: (partial)
 - Y3S2: :heavy_check_mark: (partial)
 - CS Part: :hammer:
+
+If you find interest in this project, please contact me at
+
+|   Name    |         Email          |
+| :-------: | :--------------------: |
+| Ye Hantao | hantaoye2000@gmail.com |
